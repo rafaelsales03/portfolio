@@ -1277,6 +1277,10 @@ button:disabled{
     margin-left: 55%;
   }
 
+  .radial-bars{
+    left: 30px;
+  }
+
 }
 
 @media (max-width: 450px) {
